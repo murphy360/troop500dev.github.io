@@ -1,1 +1,1 @@
-Sitemap: https://troop500.org/troop500dev.github.io/sitemap.xml
+Sitemap: https://troop500.org/sitemap.xml
