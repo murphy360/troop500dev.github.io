@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://murphy360.github.io/troop500dev.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://murphy360.github.io/troop500dev.github.io/" rel="alternate" type="text/html" /><updated>2026-05-04T21:47:13+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/feed.xml</id><title type="html">Troop 500</title><subtitle>a Scouting America Troop</subtitle><author><name>Webmaster</name></author><entry><title type="html">High Adventure Fitness: Hiking Training Plan</title><link href="https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan" rel="alternate" type="text/html" title="High Adventure Fitness: Hiking Training Plan" /><published>2025-02-10T00:00:00+00:00</published><updated>2025-02-10T00:00:00+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan</id><content type="html" xml:base="https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan"><![CDATA[<p>Troop 500 has a growing interest in high-adventure activities, and that means making sure our Scouts and adult leaders are physically prepared. This training plan is designed to help anyone — regardless of current fitness level — build up the endurance and strength needed to complete a 10-mile or 20-mile hike with confidence.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://murphy360.github.io/troop500dev.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://murphy360.github.io/troop500dev.github.io/" rel="alternate" type="text/html" /><updated>2026-05-04T21:53:31+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/feed.xml</id><title type="html">Troop 500</title><subtitle>a Scouting America Troop</subtitle><author><name>Webmaster</name></author><entry><title type="html">High Adventure Fitness: Hiking Training Plan</title><link href="https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan" rel="alternate" type="text/html" title="High Adventure Fitness: Hiking Training Plan" /><published>2025-02-10T00:00:00+00:00</published><updated>2025-02-10T00:00:00+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan</id><content type="html" xml:base="https://murphy360.github.io/troop500dev.github.io/hiking-fitness-training-plan"><![CDATA[<p>Troop 500G has a growing interest in high-adventure activities, and that means making sure our Scouts and adult leaders in Northeast Ohio are physically prepared. This training plan is designed to help newer and experienced hikers build the endurance and strength needed to complete a 10-mile or 20-mile hike with confidence.</p>
 
 <p>Use this as a personal roadmap, a patrol challenge, or a foundation for earning the <a href="https://www.scouting.org/merit-badges/hiking/">Hiking Merit Badge</a>.</p>
 
@@ -12,6 +12,20 @@
   <li><strong>Wear your boots early.</strong> Whatever footwear you plan to hike in, start wearing it during your training walks now.</li>
   <li><strong>Stay hydrated.</strong> Aim for at least 8–10 cups of water per day, and always carry water on every training walk.</li>
 </ul>
+
+<h3 id="troop-500g-quick-start-for-new-scouts-and-leaders">Troop 500G Quick Start (For New Scouts and Leaders)</h3>
+
+<p>If the Hiking Merit Badge feels big at first, start with this simple process:</p>
+
+<ol>
+  <li>Pick one easy local route from the NE Ohio list below (Liberty Park or Towpath are great first choices).</li>
+  <li>Hike once per week for 3 weeks at your current level.</li>
+  <li>Log distance, time, weather, and how you felt after each hike.</li>
+  <li>Add distance slowly (about 10-15% per week) instead of making big jumps.</li>
+  <li>Join a buddy or patrol hike at least once per month for skill confidence and accountability.</li>
+</ol>
+
+<p>This method makes merit badge preparation less intimidating and helps new hikers build success early.</p>
 
 <hr />
 
@@ -292,7 +306,7 @@
 
 <h2 id="local-training-routes-twinsburg--solon-area">Local Training Routes (Twinsburg / Solon Area)</h2>
 
-<p>These trails are great for building up your mileage. All distances are approximate round-trip.</p>
+<p>These Northeast Ohio trails are great for building up your mileage. All distances are approximate round-trip.</p>
 
 <table>
   <thead>
@@ -354,6 +368,17 @@
   <p><strong>Accessible Routes:</strong> Liberty Park Trail in Twinsburg and the Towpath Trail in Cuyahoga Valley National Park both offer paved or packed-surface options suitable for those with mobility limitations or who are just starting out.</p>
 </blockquote>
 
+<h3 id="route-planning-workflow-ne-ohio">Route Planning Workflow (NE Ohio)</h3>
+
+<p>For Troop 500G trip planning, this simple workflow works well:</p>
+
+<ol>
+  <li>Find trail options and recent condition notes on <a href="https://www.alltrails.com/">AllTrails</a> and <a href="https://www.hikingproject.com/">Hiking Project</a>.</li>
+  <li>Build or refine the route in <a href="https://caltopo.com/">CalTopo</a> to verify mileage, elevation, turn points, and bailout spots.</li>
+  <li>Share route links and printed maps with Scouts, parents, and leaders before the hike.</li>
+  <li>Keep a post-hike log so future patrols can reuse proven NE Ohio routes.</li>
+</ol>
+
 <hr />
 
 <h2 id="pack-weight-guidelines">Pack Weight Guidelines</h2>
@@ -397,11 +422,24 @@
 
 <p>Scouts must be physically prepared and have adult supervision for all qualifying hikes. Talk to your Scoutmaster about logging your hikes for merit badge credit.</p>
 
+<p>For the official requirements and updates, always use the BSA source: <a href="https://www.scouting.org/merit-badges/hiking/">Hiking Merit Badge</a>.</p>
+
+<hr />
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="https://www.hikingproject.com/">Hiking Project</a></li>
+  <li><a href="https://caltopo.com/">CalTopo</a></li>
+  <li><a href="https://www.alltrails.com/">AllTrails</a></li>
+  <li><a href="https://www.scouting.org/merit-badges/hiking/">Scouting America Hiking Merit Badge</a></li>
+</ul>
+
 <hr />
 
 <h2 id="questions">Questions?</h2>
 
-<p>Reach out to Troop 500 leadership or post a question at our next meeting. We’re all in this together — high adventure is more fun when the whole troop is ready for it!</p>]]></content><author><name>Corey</name></author><category term="resources" /><category term="resources" /><category term="hiking" /><category term="high-adventure" /><category term="fitness" /><category term="merit-badge" /><summary type="html"><![CDATA[Troop 500 has a growing interest in high-adventure activities, and that means making sure our Scouts and adult leaders are physically prepared. This training plan is designed to help anyone — regardless of current fitness level — build up the endurance and strength needed to complete a 10-mile or 20-mile hike with confidence.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://murphy360.github.io/troop500dev.github.io/backpack.jpg" /><media:content medium="image" url="https://murphy360.github.io/troop500dev.github.io/backpack.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Winter Camping Gear Checklist</title><link href="https://murphy360.github.io/troop500dev.github.io/winter-camping-gear" rel="alternate" type="text/html" title="Winter Camping Gear Checklist" /><published>2024-10-15T00:00:00+00:00</published><updated>2024-10-15T00:00:00+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/winter-camping-gear</id><content type="html" xml:base="https://murphy360.github.io/troop500dev.github.io/winter-camping-gear"><![CDATA[<p>Winter camping is one of the most rewarding experiences in Scouting — but it demands extra preparation and the right gear. Cold weather, snow, and shorter daylight hours mean your equipment choices directly affect your safety and comfort.</p>
+<p>Reach out to Troop 500 leadership or post a question at our next meeting. We’re all in this together — high adventure is more fun when the whole troop is ready for it!</p>]]></content><author><name>Corey</name></author><category term="resources" /><category term="resources" /><category term="hiking" /><category term="high-adventure" /><category term="fitness" /><category term="merit-badge" /><summary type="html"><![CDATA[Troop 500G has a growing interest in high-adventure activities, and that means making sure our Scouts and adult leaders in Northeast Ohio are physically prepared. This training plan is designed to help newer and experienced hikers build the endurance and strength needed to complete a 10-mile or 20-mile hike with confidence.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://murphy360.github.io/troop500dev.github.io/backpack.jpg" /><media:content medium="image" url="https://murphy360.github.io/troop500dev.github.io/backpack.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Winter Camping Gear Checklist</title><link href="https://murphy360.github.io/troop500dev.github.io/winter-camping-gear" rel="alternate" type="text/html" title="Winter Camping Gear Checklist" /><published>2024-10-15T00:00:00+00:00</published><updated>2024-10-15T00:00:00+00:00</updated><id>https://murphy360.github.io/troop500dev.github.io/winter-camping-gear</id><content type="html" xml:base="https://murphy360.github.io/troop500dev.github.io/winter-camping-gear"><![CDATA[<p>Winter camping is one of the most rewarding experiences in Scouting — but it demands extra preparation and the right gear. Cold weather, snow, and shorter daylight hours mean your equipment choices directly affect your safety and comfort.</p>
 
 <p><strong>Key principle:</strong> Cotton kills. In winter conditions, wet cotton clothing draws heat from your body rapidly. Choose wool, fleece, and synthetic fabrics for all layers.</p>
 
