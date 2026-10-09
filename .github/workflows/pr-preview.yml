@@ -57,6 +57,7 @@ jobs:
         with:
           name: handbook-pdfs
           path: assets/files/handbook/
+          retention-days: 1
 
   build-jekyll:
     runs-on: ubuntu-latest
@@ -106,6 +107,7 @@ jobs:
         with:
           name: jekyll-site
           path: ./_site/
+          retention-days: 1
 
   deploy-preview:
     runs-on: ubuntu-latest
