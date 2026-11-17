@@ -7,6 +7,20 @@
 		<atom:link href="https://murphy360.github.io/troop500dev.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to Clean Cast Iron</title>
+				
+					<dc:creator>Mr. Murphy</dc:creator>
+				
+				
+					<description>&lt;p&gt;Our Dutch ovens and skillets cook some of the best food at camp. They can last 100 years, but only if we clean them the right way. It takes about five minutes. Here’s how.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+				<link>https://murphy360.github.io/cleaning-cast-iron</link>
+				<guid isPermaLink="true">https://murphy360.github.io/cleaning-cast-iron</guid>
+			</item>
+		
+			<item>
 				<title>High Adventure Fitness: Hiking Training Plan</title>
 				
 					<dc:creator>Corey</dc:creator>
@@ -239,20 +253,6 @@
 				<pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
 				<link>https://murphy360.github.io/go-live</link>
 				<guid isPermaLink="true">https://murphy360.github.io/go-live</guid>
-			</item>
-		
-			<item>
-				<title>Troop Resources</title>
-				
-					<dc:creator>Mr. Ryan</dc:creator>
-				
-				
-					<description>&lt;p&gt;Ms Jenni discovered that Scouting America has finally updated and released their Troopleader page! Contrary to the name, there’s a ton of content for Scouts, Families, as well as Scouters to be found in the depths of &lt;a href=&quot;https://troopleader.scouting.org/&quot;&gt;these pages&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-				<link>https://murphy360.github.io/troopleader-online</link>
-				<guid isPermaLink="true">https://murphy360.github.io/troopleader-online</guid>
 			</item>
 		
 	</channel>
